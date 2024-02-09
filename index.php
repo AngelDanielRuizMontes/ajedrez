@@ -89,7 +89,6 @@
             </form>
 
             </br>
-            <a href="../../index.html">Página principal</a>
         </div>
         <div id="footer">
             ANGEL DANIEL RUIZ MONTES
